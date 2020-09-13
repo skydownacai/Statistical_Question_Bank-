@@ -1,0 +1,7 @@
+*.py
+*.docx
+*.spec
+/.idea/
+/_pycahce/
+/dist/
+/build/
