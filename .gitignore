@@ -2,6 +2,6 @@
 *.docx
 *.spec
 /.idea/
-/_pycahce/
+/_pycahce_/
 /dist/
 /build/
